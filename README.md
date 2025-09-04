@@ -1,6 +1,6 @@
 # NodeSeekIMG
 
-![NodeSeekIMG](https://raw.githubusercontent.com/344LTD/NodeSeekIMG/main/screenshot.png) <!-- 可替换为实际截图链接 -->
+![NodeSeekIMG](https://www.nodeseek.com/static/image/favicon/android-chrome-192x192.png) <!-- 可替换为实际截图链接 -->
 
 ## 简介
 **NodeSeekIMG** 是一套针对 [NodeSeek](https://www.nodeseek.com/) 网站的图片上传辅助工具，包含两款油猴脚本：  
@@ -30,7 +30,7 @@
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 或其他油猴插件  
 2. 安装脚本：
-   - [NodeSeek 图片上传助手.user.js](./NodeSeek%20图片上传助手.user.js)  
+   - [NodeSeek 图片上传助手.user.js](./NodeSeek图片上传助手.user.js)  
    - [京东隐藏上传监听器.user.js](./京东隐藏上传监听器.user.js)  
 3. 打开 NodeSeek 页面或京东反馈页，脚本会自动运行  
 
@@ -59,17 +59,4 @@
 ## 免责声明
 
 - 本工具仅供 **NodeSeek 图片上传辅助** 使用  
-- 请遵守 NodeSeek 网站相关规则，不得用于任何违规操作  
-
----
-
-## 仓库地址
-
-[https://github.com/344LTD/NodeSeekIMG](https://github.com/344LTD/NodeSeekIMG)
-
----
-
-## 作者
-
-**344.LTD**  
-[https://github.com/344LTD/NodeSeekIMG](https://github.com/344LTD/NodeSeekIMG)
+- 请遵守 NodeSeek 网站相关规则，不得用于任何违规操作
