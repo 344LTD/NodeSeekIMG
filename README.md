@@ -1,6 +1,6 @@
 # NodeSeekIMG
 
-![NodeSeekIMG](https://www.nodeseek.com/static/image/favicon/android-chrome-192x192.png) <!-- 可替换为实际截图链接 -->
+![NodeSeekIMG](https://img20.360buyimg.com/openfeedback/jfs/t1/334008/23/9120/8493/68b942b9F61f95de1/8f784315f112c6bc.png) <!-- 可替换为实际截图链接 -->
 
 ## 简介
 **NodeSeekIMG** 是一套针对 [NodeSeek](https://www.nodeseek.com/) 网站的图片上传辅助工具，包含两款油猴脚本：  
