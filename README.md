@@ -1,6 +1,11 @@
-# NodeSeekIMG
-
-![NodeSeekIMG](https://img20.360buyimg.com/openfeedback/jfs/t1/334008/23/9120/8493/68b942b9F61f95de1/8f784315f112c6bc.png) <!-- 可替换为实际截图链接 -->
+<h3>
+  <img src="https://img20.360buyimg.com/openfeedback/jfs/t1/334008/23/9120/8493/68b942b9F61f95de1/8f784315f112c6bc.png" 
+       alt="NodeSeekIMG" 
+       width="24" 
+       height="24" 
+       style="vertical-align: middle; margin-right: 8px;">
+  <b>NodeSeekIMG</b>
+</h3>
 
 ## 简介
 **NodeSeekIMG** 是一套针对 [NodeSeek](https://www.nodeseek.com/) 网站的图片上传辅助工具，包含两款油猴脚本：  
