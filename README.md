@@ -8,10 +8,12 @@
 1. **NodeSeek 图片上传助手**  
    - 在 NodeSeek 编辑器中轻松上传本地或剪贴板图片  
    - 支持 Markdown 格式自动插入  
+   - [安装脚本](https://github.com/344LTD/NodeSeekIMG/blob/main/v1/NodeSeek%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E5%8A%A9%E6%89%8B.js)
 
 2. **京东隐藏上传监听器**  
    - 在京东反馈页后台监听图片上传请求  
    - 配合上传助手实现隐藏上传操作  
+   - [安装脚本](https://github.com/344LTD/NodeSeekIMG/blob/main/v1/%E4%BA%AC%E4%B8%9C%E9%9A%90%E8%97%8F%E4%B8%8A%E4%BC%A0%E7%9B%91%E5%90%AC%E5%99%A8.js)
 
 该工具可以提升 NodeSeek 图片上传效率，同时隐藏上传过程，不影响页面布局。
 
@@ -29,9 +31,9 @@
 ## 安装教程
 
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 或其他油猴插件  
-2. 安装脚本：
-   - [NodeSeek 图片上传助手.user.js](./NodeSeek图片上传助手.user.js)  
-   - [京东隐藏上传监听器.user.js](./京东隐藏上传监听器.user.js)  
+2. 分别安装两款脚本：
+   - [NodeSeek 图片上传助手](https://github.com/344LTD/NodeSeekIMG/blob/main/v1/NodeSeek%E5%9B%BE%E7%89%87%E4%B8%8A%E4%BC%A0%E5%8A%A9%E6%89%8B.js)  
+   - [京东隐藏上传监听器](https://github.com/344LTD/NodeSeekIMG/blob/main/v1/%E4%BA%AC%E4%B8%9C%E9%9A%90%E8%97%8F%E4%B8%8A%E4%BC%A0%E7%9B%91%E5%90%AC%E5%99%A8.js)  
 3. 打开 NodeSeek 页面或京东反馈页，脚本会自动运行  
 
 > 注意：两款脚本需要同时启用，上传助手会通过隐藏监听器完成图片上传。
@@ -59,4 +61,4 @@
 ## 免责声明
 
 - 本工具仅供 **NodeSeek 图片上传辅助** 使用  
-- 请遵守 NodeSeek 网站相关规则，不得用于任何违规操作
+- 请遵守 NodeSeek 网站相关规则，不得用于任何违规操作  
